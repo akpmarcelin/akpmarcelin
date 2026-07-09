@@ -224,5 +224,5 @@ I plan to share my technical experiments, projects, and research through:
 <br>
 
 <p align="center">
-  <img src="./wave.gif" width="200"/>
+  <img src="./wave.gif" width="400"/>
 </p>
